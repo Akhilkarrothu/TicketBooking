@@ -1,4 +1,4 @@
-# Walmart Coding Challenge - seating arrangement
+# Coding Challenge - seating arrangement
 
 This program implements an algorithm for assigning seats within a movie theatre based on 
 the reservation requests. The program makes sure that the seats are allocated in such a 
